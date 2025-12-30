@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='flex md:space-x-35 gap-y-5 flex-wrap md:flex-row flex-col justify-between'>
             <div className='max-w-[310px]'>
                 <h2 className='text-2xl font-bold text-zinc-800'>Shop<span className='text-blue-600'>F</span>inity</h2>
-                <p className='text-zinc-600 mt-4 text-sm'>&copy; 2025 Shopfinity | Built with React & Tailwind | By Mohammad Zakariya</p>
+                <p className='text-zinc-600 mt-4 text-sm'>&copy; 2025 Shopfinity | Built with React & Tailwind | By Safiurahman Jami</p>
             </div>
             <div className='flex justify-between  gap-x-30' >
                 <ul className='space-y-3'>
